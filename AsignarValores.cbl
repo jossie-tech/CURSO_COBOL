@@ -1,7 +1,7 @@
       ******************************************************************
       * Author:Jossie Esteban Rodriguez
       * Date:21/01/2021
-      * Purpose:
+      * Purpose: Curso
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
